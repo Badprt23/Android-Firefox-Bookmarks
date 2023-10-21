@@ -1,4 +1,4 @@
-1)	export browser.db from /data/data/org.mozilla.firefox/files/mozilla/…….default/browser.db of the device
+1)	export browser.db from /data/data/org.mozilla.firefox/files/mozilla/…….default/browser.db of the device (only works on rooted devices (maybe with ADB?))
 2)	open browser.db with sqlite Browser: https://sqlitebrowser.org/
 3)	import bookmarks.sql and run it			(Credits https://gist.github.com/dogancelik/b82c6eac880eb58acd2b to dogancelik)
 4)	export as .csv file
