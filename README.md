@@ -1,4 +1,10 @@
-1)	export browser.db from /data/data/org.mozilla.firefox/files/mozilla/…….default/browser.db of the device (only works on rooted devices (maybe with ADB?))
+Repo to Help with the export of Bookmarks from Firefox for Android
+
+!!!ONLY WORKS WITH ROOTED PHONE!!!
+
+Instructions: (Pictures are in designated folder)
+
+1)	Copy browser.db from /data/data/org.mozilla.firefox/files/mozilla/…….default/browser.db of the device (only works on rooted devices (maybe with ADB on non rooted devices?)) to usb/pc
 2)	open browser.db with sqlite Browser: https://sqlitebrowser.org/
 3)	import bookmarks.sql and run it			(Credits https://gist.github.com/dogancelik/b82c6eac880eb58acd2b to dogancelik)
 4)	export as .csv file
