@@ -1,3 +1,4 @@
+Better script:https://gist.github.com/v3l0c1r4pt0r/15ef7181b7c4546963da68bc3b31c169
 Repo to Help with the export of Bookmarks from Firefox for Android (without using Firefox Sync)
 
 !!!ONLY WORKS WITH ROOTED PHONE!!!
